@@ -1,15 +1,15 @@
 # Virtual environments
-.venv/
 venv/
-env/
+.venv/
+server/venv/
 
-# Environment variables
+# Environment files
 .env
-/server/.env
+server/.env
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Test / local files
+# Local files
 test.py
